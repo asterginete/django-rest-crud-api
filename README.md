@@ -61,11 +61,7 @@ Once the project is running, you can access the API documentation at:
 
 ### Installation & Setup
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd user-management-api
-```
+1. Clone the repository.
 
 2. Build and start the containers:
 ```bash
